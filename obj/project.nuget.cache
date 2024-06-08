@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "xc7q6D9ykFs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hungr\\source\\repos\\DSRTexturePixelRando\\DSRTexturePixelRando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hungr\\.nuget\\packages\\datajuggler.pixeldatabase\\8.2.8\\datajuggler.pixeldatabase.8.2.8.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\datajuggler.randomshuffler\\8.0.4\\datajuggler.randomshuffler.8.0.4.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\datajuggler.ultimatehelper\\8.0.5\\datajuggler.ultimatehelper.8.0.5.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Hungr\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
