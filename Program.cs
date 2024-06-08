@@ -1,5 +1,4 @@
-﻿using DataJuggler.PixelDatabase;
-using System.Drawing;
+﻿using System.Drawing;
 
 namespace DSRTexturePixelRando
 {
